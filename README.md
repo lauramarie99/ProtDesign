@@ -88,3 +88,13 @@ An example general config file is experiment1.yml.
 
 To automatically generate slurm scripts and submit the jobs, the script run_cluster.py can be used.
 You need to modify the paths for your purposes.
+
+## Acknowledgement
+This repo and its code is based on the ColabDesign repo: https://github.com/sokrypton/ColabDesign
+- Sergey Ovchinnikov @sokrypton
+- Shihao Feng @JeffSHF
+- Justas Dauparas @dauparas
+- Weikun.Wu @guyujun (from Levinthal.bio)
+- Christopher Frank @chris-kafka
+
+
